@@ -74,7 +74,4 @@
 [哔哩哔哩](http://www.bilibili.com "跳转到b站")
 
 
-
-
-![背景图片](C:/Users/郑恒轩/Pictures/Camera Roll/default.jpg)
-
+![-5e4d7a35db539a5.jpg](https://s2.loli.net/2022/01/19/aJjqGUDhYemtnzx.jpg)
