@@ -46,4 +46,21 @@
 3. 有序列表三
 
 
+## Markdown 区块引用效果
 
+> 第一层引用
+>> 第二层引用
+>>> 第三层引用
+
+## Markdown 插入代码块
+
+```C
+	#include<stdio.h>
+
+	int main()
+	{
+		printf("output\n");
+		return 0;
+	}
+
+```
